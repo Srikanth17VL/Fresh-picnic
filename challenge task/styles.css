@@ -1,0 +1,94 @@
+body{
+  background-color: wheat;
+}
+.page1 {
+  background-color:wheat;
+}
+.header {
+  height: 100px;
+  width: 100%;
+}
+.logo {
+    position: absolute;
+    top: 0;
+    width: 100px;
+    height: 100px;
+}
+.link {
+  padding: 50px;
+}
+.sidenav {
+    padding: 1%;
+    position: absolute;
+    right: 20px;
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+  }
+  .sidenav a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+  }
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  .sidenav {
+    display: flex;
+    justify-content: space-between;
+  }
+  .container1{
+    position: relative;
+    height: 250px;
+    text-align: center;
+  }
+  .container2 {
+    text-align: center;
+  }
+  .container3{
+    height: 600px;
+    width: 30%;
+  }
+  .para{
+    position: absolute;
+    left: 20px;
+    width: 20%;
+  }
+  .page2 {
+    width: 99%;
+    height: 100%;
+  }
+  .container4 {
+    position: absolute;
+    right: 2%;
+    display: flex;
+  }
+  .row {
+    padding-right: 3%;
+  }
+  .container5 {
+    display: flex;
+    justify-content: space-around;
+  }
+  .pro1{
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+  }
+  .pro2{
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+  }
+  .pro3{
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+  }
+
